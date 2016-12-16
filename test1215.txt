@@ -1,0 +1,6 @@
+**首先 在github新增repository
+1.文字檔修改使用了c9與github兩邊-->從c9先從github push回來->github編輯文字檔->c9再pull過來(發現兩邊文字有衝突)
+2.c9 push 自github回來->兩邊各自編輯文字檔->兩方產生conflict->c9在pull過來(use one/use both)->選擇完自c9 pull回去
+練習完c9以及github之後
+3.練習git bash 
+4.
